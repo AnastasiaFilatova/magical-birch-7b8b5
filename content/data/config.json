@@ -25,7 +25,8 @@
                 "url": "/style-guide",
                 "style": "link"
             }
-        ]
+        ],
+        "logo": "images/FXLBADGE_TEAM_small.png"
     },
     "footer": {
         "has_nav": true,
