@@ -5,7 +5,7 @@ sections:
     title: ANDREY DEVYATKIN
     actions: []
     align: center
-    image: images/about1.png
+    image: images/hero-bg-960px.png
     image_alt: Andrey Devyatkin picture
     image_position: right
     has_background: true
