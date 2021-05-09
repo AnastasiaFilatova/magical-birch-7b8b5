@@ -44,7 +44,7 @@ sections:
           User Group Las Palmas de Gran Canaria).
         align: left
         image_alt: Feature 1 placeholder image
-        image_position: right
+        image_position: left
         actions: []
       - title: Consulting
         content: >
