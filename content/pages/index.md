@@ -19,7 +19,7 @@ sections:
     image_position: right
     has_background: false
     background:
-      background_color: blue
+      background_color: white
       background_image: images/wall-bg-1024px-min.png
       background_image_opacity: 20
       background_image_size: auto
