@@ -25,7 +25,8 @@
                 "style": "link"
             }
         ],
-        "logo": "images/Fivexl_badge_min.png"
+        "logo": "images/Fivexl_badge_min.png",
+        "logo_alt": "part of fivexl theme badge"
     },
     "footer": {
         "has_nav": true,
