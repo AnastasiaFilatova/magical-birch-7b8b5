@@ -103,15 +103,6 @@
   }
 }
 
-/* Background for section Features */
-.section--features, .section--posts, .section--cta {
-    background-position: center;
-    background-size: cover;
-    background: url("/images/wall-bg-1024px-min.png") repeat-y;
-    margin-top: -3.75rem;
-    color: $color-blockquote;
-}
-
 @include media-breakpoint-up(md) {
   .section__media {
     &--right {
