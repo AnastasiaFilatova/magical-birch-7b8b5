@@ -110,10 +110,6 @@
     background: url("/images/wall-bg-fixed.jpg") repeat-y;
     margin-top: -3.75rem;
     color: $color-blockquote;
-
-  .flex {
-    margin-bottom: 3.75rem;
-  }
 }
 
 @include media-breakpoint-up(md) {
