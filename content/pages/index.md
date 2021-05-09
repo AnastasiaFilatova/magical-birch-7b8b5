@@ -17,7 +17,6 @@ sections:
       background_image_repeat: repeat
     subtitle: CI/CD. DevSecOps. Cloud infrastructure.
   - type: features_section
-    title: Features
     features:
       - title: About Andrey
         content: >
