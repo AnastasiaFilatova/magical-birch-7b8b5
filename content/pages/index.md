@@ -3,10 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: ANDREY DEVYATKIN
-    actions:
-      - label: Contact Us
-        url: /contact
-        style: secondary
+    actions: []
     align: center
     image: images/hero-bg-960px.png
     image_alt: Hero placeholder image
