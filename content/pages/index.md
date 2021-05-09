@@ -8,7 +8,7 @@ sections:
     image: images/hero-bg-960px.png
     image_alt: Andrey Devyatkin picture
     image_position: right
-    has_background: true
+    has_background: false
     background:
       background_color: gray
       background_image: images/wall-bg-1024px-min.png
