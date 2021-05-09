@@ -16,7 +16,7 @@
             },
             {
                 "label": "About",
-                "url": "/about",
+                "url": "#about",
                 "style": "link"
             },
             {
