@@ -6,7 +6,7 @@ sections:
     actions: []
     align: center
     image: images/hero-bg-960px.png
-    image_alt: Hero placeholder image
+    image_alt: Andrey Devyatkin picture
     image_position: right
     has_background: true
     background:
