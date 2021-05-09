@@ -22,7 +22,7 @@ sections:
       background_color: gray
       background_image: images/wall-bg-1024px-min.png
       background_image_opacity: 70
-      background_image_size: auto
+      background_image_size: cover
       background_image_repeat: repeat
   - type: features_section
     title: Features
