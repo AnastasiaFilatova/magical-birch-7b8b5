@@ -73,7 +73,7 @@ sections:
           Building and scaling Continuous Integration and Continuous Delivery
           pipelines using Jenkins
         align: left
-        image: images/consulting_min.png
+        image: images/consulting_andrey_min.png
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
