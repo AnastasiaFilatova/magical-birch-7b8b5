@@ -43,7 +43,7 @@ sections:
           Meetups organizer (Cloud Native Las Palmas de Gran Canaria, HashiCorp
           User Group Las Palmas de Gran Canaria).
         align: left
-        image: images/hero-bg-960px.png
+        image: images/about1.png
         image_alt: Feature 1 placeholder image
         image_position: right
         actions: []
