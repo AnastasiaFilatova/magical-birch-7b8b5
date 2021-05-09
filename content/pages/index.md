@@ -13,7 +13,7 @@ sections:
       - label: Contact Us
         url: /contact
         style: secondary
-    align: left
+    align: center
     image: images/hero-bg-960px.png
     image_alt: Hero placeholder image
     image_position: right
