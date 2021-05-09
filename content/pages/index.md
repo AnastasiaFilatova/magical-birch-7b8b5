@@ -107,7 +107,7 @@ sections:
           Buffer or suffer? Growth pain of Continuous Delivery pipelines and
           what to do about it (Continuous Delivery Conference Stockholm 2016)
         align: left
-        image: images/feature.svg
+        image: images/public speaking_main_min.png
         image_alt: Feature 3 placeholder image
         image_position: right
         actions: []
