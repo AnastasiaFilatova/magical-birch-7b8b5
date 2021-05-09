@@ -76,10 +76,7 @@ sections:
         image: images/consulting_andrey_min.png
         image_alt: Feature 2 placeholder image
         image_position: left
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
+        actions: []
       - title: Public speaking
         content: >
           Why I do not recommend people learning Ansible? (DevOoops Piter 2020)
